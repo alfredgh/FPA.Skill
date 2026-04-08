@@ -1,0 +1,41 @@
+fpna-skill-system/
+│
+├── README.md
+├── SYSTEM.md                  # How the whole system works
+├── ORCHESTRATION.md          # How skills chain together
+│
+├── skills/
+│   ├── core/
+│   │   ├── financial_modeling.md
+│   │   ├── forecasting.md
+│   │
+│   ├── performance/
+│   │   ├── variance_analysis.md
+│   │   ├── unit_economics.md
+│   │
+│   ├── decision/
+│   │   ├── investment_decision.md
+│   │   ├── scenario_planning.md
+│   │
+│   ├── communication/
+│   │   ├── exec_storytelling.md
+│   │   ├── board_reporting.md
+│
+├── templates/
+│   ├── skill_template.md
+│   ├── analysis_template.md
+│   ├── memo_template.md
+│
+├── playbooks/
+│   ├── monthly_close.md
+│   ├── budgeting_cycle.md
+│   ├── board_meeting_prep.md
+│
+├── examples/
+│   ├── saas_case.md
+│   ├── marketplace_case.md
+│
+└── agents/
+    ├── fpna_analyst.md
+    ├── fpna_manager.md
+    ├── cfo_copilot.md
