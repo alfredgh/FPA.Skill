@@ -1,5 +1,5 @@
 # FPA.Skill
-FP&amp;A hands-on, end-to-end FP&A simulation using real-world scenarios
+A hands-on, end-to-end FP&A simulation using real-world scenarios
 # FP&A SKILL SYSTEM
 
 ## What this is
